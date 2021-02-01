@@ -17,4 +17,4 @@ The image dataset has been acquired by Structure Illumination Micrscopy using a 
 -IntegralIntensity: the integral intensity of each element  
 -VoxelIdxList: the indices of each voxel in each element  
 
-The *SampleImages* folder contains 4 image files in .tif format as input examples.
+The *SampleImage* folder contains 1 image file in .tif format as an input example.
